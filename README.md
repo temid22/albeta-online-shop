@@ -302,13 +302,11 @@ The following images are user/Admin interaction with the application interface.
 
 ## GitHub Links
 
-- Server: [https://github.com/fakornamwealth/fullstack/tree/myprojects](https://github.com/fakornamwealth/fullstack/tree/myprojects)
-- Client: [https://github.com/fakornamwealth/fullstack/tree/client](https://github.com/fakornamwealth/fullstack/tree/client)
+- Fullstack: [https://github.com/temid22/fullstack_alberta.git](https://github.com/temid22/fullstack_alberta.git)
 
 ## Deployed Links
 
-- Server: [https://react-node-u6i6.onrender.com/api](https://react-node-u6i6.onrender.com/api) (deployed on render.com)
-- Client: [https://648888f399c9d900080f712a--tranquil-stardust-8b019b.netlify.app/login](https://648888f399c9d900080f712a--tranquil-stardust-8b019b.netlify.app/login) (deployed on Netlify)
+Comming soon!
 
 ## Note
 
